@@ -1,0 +1,6 @@
+   0 nano script.sh
+   1 mv script.sh /bin/
+   2 chmod 744 /bin/script.sh
+   3 script.sh
+   4 cat /opt/file.txt
+   5 history >> history.txt
